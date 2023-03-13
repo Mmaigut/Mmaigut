@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **maigutmercy@gmail.com**
 
-- ⚡ Fun fact **I enjoying travelling and discovering new places**
+- ⚡ Fun fact **I enjoy travelling and discovering new places**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
