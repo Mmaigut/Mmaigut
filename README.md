@@ -1,17 +1,17 @@
 [![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif)](https://github.com/Mmaigut)
 <h1 align="center">Hi 👋, I'm Mercy Maigut</h1>
-<h3 align="center">Passionate about DevOps and Cloud Security</h3>
+<h3 align="center">Passionate about Data Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jae2bw7f078xliimcps0txmt72schn0cl3eelpr0&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmaigut&label=Profile%20views&color=0e75b6&style=flat" alt="mmaigut" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Snowflake**
 
-- 👯 I’m looking to collaborate on **all things DevOps**
+- 👯 I’m looking to collaborate on **all things Data**
 
 - 👨‍💻 All of my projects are available at [maigutmercy.com](maigutmercy.com)
 
-- 💬 Ask me about **react, Ansible, Puppet**
+- 💬 Ask me about **ADF, Databricks, Synapse, SQL Server**
 
 - 📫 How to reach me **maigutmercy@gmail.com**
 
